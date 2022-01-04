@@ -1,0 +1,17 @@
+C:\Users\Yashnick\source\repos\Sokoban Game\obj\Debug\Sokoban Game.csproj.AssemblyReference.cache
+C:\Users\Yashnick\source\repos\Sokoban Game\obj\Debug\Sokoban_Game.Level1.resources
+C:\Users\Yashnick\source\repos\Sokoban Game\obj\Debug\Sokoban_Game.Level2.resources
+C:\Users\Yashnick\source\repos\Sokoban Game\obj\Debug\Sokoban_Game.Level3.resources
+C:\Users\Yashnick\source\repos\Sokoban Game\obj\Debug\Sokoban_Game.Level4.resources
+C:\Users\Yashnick\source\repos\Sokoban Game\obj\Debug\Sokoban_Game.Level5.resources
+C:\Users\Yashnick\source\repos\Sokoban Game\obj\Debug\Sokoban_Game.Levels.resources
+C:\Users\Yashnick\source\repos\Sokoban Game\obj\Debug\Sokoban_Game.Properties.Resources.resources
+C:\Users\Yashnick\source\repos\Sokoban Game\obj\Debug\Sokoban_Game.Welcome.resources
+C:\Users\Yashnick\source\repos\Sokoban Game\obj\Debug\Sokoban Game.csproj.GenerateResource.cache
+C:\Users\Yashnick\source\repos\Sokoban Game\obj\Debug\Sokoban Game.csproj.CoreCompileInputs.cache
+C:\Users\Yashnick\source\repos\Sokoban Game\bin\Debug\Sokoban Game.exe.config
+C:\Users\Yashnick\source\repos\Sokoban Game\bin\Debug\Sokoban Game.exe
+C:\Users\Yashnick\source\repos\Sokoban Game\bin\Debug\Sokoban Game.pdb
+C:\Users\Yashnick\source\repos\Sokoban Game\obj\Debug\Sokoban Game.exe
+C:\Users\Yashnick\source\repos\Sokoban Game\obj\Debug\Sokoban Game.pdb
+C:\Users\Yashnick\source\repos\Sokoban Game\obj\Debug\Sokoban_Game.End.resources
